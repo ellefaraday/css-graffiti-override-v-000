@@ -24,6 +24,6 @@ div#wall div:nth-child(6).parent div:last-child div#tag-6{
   display: none;
 }
 
-body div:first-child#wall div:last-child.parent div > div > #tag-7.slick {
+body div:first-child#wall div:last-child.parent div > #tag-7.slick {
   display: nome;
 }
