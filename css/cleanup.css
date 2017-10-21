@@ -20,6 +20,6 @@ div#wall div.parent #tag-5.slick {
 }
 
 div#wall div.parent div:last-child div#tag-6
-div#wall div:nth-child(6).parent div:last-child div#tag-6{
+div#wall div:nth-child(6) div:last-child div#tag-6{
   display: none;
 }
